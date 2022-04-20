@@ -1,0 +1,253 @@
+
+
+
+
+#title{
+
+  background-color: rgb(235, 202, 218);
+  font-size: 1.3rem;
+
+  font-weight: bold;
+}
+
+
+h1{
+  font-family: 'poppins';
+}
+
+h2,  h4{
+font-family: 'rubik';
+font-size: 3rem;
+
+}
+
+
+#intro {
+  background-image: url("images/pexels-photo-1083822.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+ 
+  height: 90vh;
+}
+
+body{
+  text-align: center !important;
+  
+}
+
+img.logo-navbar {
+  width: 6rem !important;
+  height: 6rem !important;
+}
+
+
+
+.background-image{
+  margin: 5%;
+  padding-right: 50px;
+  margin-bottom: 5%;
+
+}
+
+.nav-item{
+  font-style: bold;
+
+  
+}
+
+.navbar-nav{
+  font-size: 1.3rem;
+}
+
+
+.text-white{
+  padding: 5% 20%;
+  font-size: 1.5rem;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.containericons{
+  padding: 10% 20%;
+}
+
+.fa-solid{
+  height: 50%;
+  width: 50%;
+}
+
+.row{
+  text-align: center;
+}
+
+#features{
+ 
+  padding: 10%;
+}
+
+
+
+
+
+
+/* mouse over link */
+i:hover {
+  color: red;
+}
+
+
+
+.client {
+
+  height: 30%;
+
+
+background-color: rgb(230, 189, 195);
+padding-bottom: 5%;
+}
+
+.carousel-icon i {
+font-size: 5rem;
+color: rgba(255, 255, 255, 0.3);
+}
+
+.carousel-item i {
+font-size: 1.6rem;
+color: rgba(255, 255, 255, 0.3);
+}
+
+.t-card {
+
+background-color: rgba(0, 0, 0, 0.5);
+border-radius: 1.25rem;
+color: #fff;
+height: auto;
+
+}
+
+.arrow-down {
+width: 0;
+height: 0;
+border-left: 1.5625rem solid transparent;
+border-right: 1.5625rem solid transparent;
+border-top: 1.25rem solid rgba(0, 0, 0, 0.5);
+}
+
+.testimonials{
+  padding: 10px;
+  margin-bottom: 20px;
+ 
+}
+
+
+
+
+
+/* PRICING PLAN */
+
+
+h3{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif  ;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+
+#Pricing{
+  padding-top: 8%;
+height: 15%;
+width: 100%;
+padding-left: 8%;
+
+
+}
+
+
+  padding-top: 10%;
+  font-family: 'helvetica';
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+
+.card-text2{
+  font-size: 1.3rem;
+  color: rgb(32, 6, 94);
+  font-weight: bold;
+}
+
+
+.card-text{
+  padding-top: 5%;
+  padding-bottom: 10%;
+}
+
+/*press*/
+
+#press{
+  margin-bottom: 10%;
+  padding: 50%;
+}
+
+
+
+
+#pricing{
+  margin:  5%;
+  padding-top: 5%;
+}
+
+
+
+
+@import url(//fonts.googleapis.com/css?family=Montserrat:300,400,500);
+.c2a1 {
+  font-family: "Montserrat", sans-serif;
+	color: #000000;
+  font-weight: 500;
+	background-position: center top;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.c2a1 h1, .c2a1 h2, .c2a1 h3, .c2a1 h4, .c2a1 h5, .c2a1 h6 {
+  color: #3e4555;
+}
+
+
+.c2a1 .font-weight-medium {
+	font-weight: 500;
+}
+
+.c2a1 .btn-danger-gradiant {
+  background: #ff4d7e;
+  background: -webkit-linear-gradient(legacy-direction(to right), #ff4d7e 0%, #ff6a5b 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#ff4d7e), to(#ff6a5b));
+  background: -webkit-linear-gradient(left, #ff4d7e 0%, #ff6a5b 100%);
+  background: -o-linear-gradient(left, #ff4d7e 0%, #ff6a5b 100%);
+  background: linear-gradient(to right, #ff4d7e 0%, #ff6a5b 100%);
+}
+
+ .c2a1 .btn-danger-gradiant:hover {
+  background: #ff6a5b;
+  background: -webkit-linear-gradient(legacy-direction(to right), #ff6a5b 0%, #ff4d7e 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#ff6a5b), to(#ff4d7e));
+  background: -webkit-linear-gradient(left, #ff6a5b 0%, #ff4d7e 100%);
+  background: -o-linear-gradient(left, #ff6a5b 0%, #ff4d7e 100%);
+  background: linear-gradient(to right, #ff6a5b 0%, #ff4d7e 100%);
+}
+
+.c2a1 .btn-md {
+    padding: 15px 45px;
+    font-size: 16px;
+}
+
+
+p2{
+  font-size: 2rem;
+}
+
+p3{
+  font-size: 5rem;
+}
